@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/t-hokaguchi/typescript-tutorial-hoka/issues"
   },
-  "homepage": "https://github.com/t-hokaguchi/typescript-tutorial-hoka#readme"
+  "homepage": "https://github.com/t-hokaguchi/typescript-tutorial-hoka#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
